@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  img{
+    border-radius: 50%;
+    max-width: 200px;
+  }
+  
+  .intro {
+    margin-bottom: 20px;
+  }
+  
+  .highlight {
+    color: #ff0000; /* Đổi màu theo ý muốn */
+  }
+  
+  .details {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: left;
+  }
+  
